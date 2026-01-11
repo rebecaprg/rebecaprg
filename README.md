@@ -1,6 +1,6 @@
 # ¡Hola! Soy Rebeca 👋
 
-Estudiante de Data Science | Analista de Datos | Machine Learning  
+Data Science | Analista de Datos | Machine Learning  
 Me apasiona transformar datos en **insights** que aporten valor y ayuden a la toma de decisiones. Actualmente finalizando un [bootcamp intensivo en **Data Science e Inteligencia Artificial**](https://thebridge.tech/bootcamps/data-science/), buscando oportunidades en análisis de datos, machine learning y proyectos de IA.
 
 ---
