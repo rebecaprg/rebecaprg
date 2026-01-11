@@ -65,7 +65,7 @@ Análisis exploratorio y multivariante para identificar patrones de consumo seg�
 ## 🔗 Contacto
 - [LinkedIn](https://www.linkedin.com/in/rebeca-prior/)  
 - GitHub: [https://github.com/rebecaprg](https://github.com/rebecaprg)  
-- Email: tuemail@ejemplo.com  
+- Email: rebeca.priorg@gmail.com
 
 ---
 
