@@ -55,13 +55,6 @@ Análisis exploratorio y multivariante para identificar patrones de consumo seg�
 
 ---
 
-## 📊 GitHub Stats
-
-![Rebeca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebecaprg&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaprg&layout=compact&theme=radical)
-
----
-
 ## 🔗 Contacto
 - [LinkedIn](https://www.linkedin.com/in/rebeca-prior/)  
 - GitHub: [https://github.com/rebecaprg](https://github.com/rebecaprg)  
