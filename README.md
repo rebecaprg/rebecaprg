@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rebeca 👋
+# ¡Hola! Soy Rebeca 
 
 Data Science | Analista de Datos | Machine Learning  
 Me apasiona transformar datos en **insights** que aporten valor y ayuden a la toma de decisiones. Actualmente finalizando un [bootcamp intensivo en **Data Science e Inteligencia Artificial**](https://thebridge.tech/bootcamps/data-science/), buscando oportunidades en análisis de datos, machine learning y proyectos de IA.
@@ -49,9 +49,19 @@ Combino análisis de datos, transformación digital y conocimientos técnicos pa
 ### [EDA de consumo de drogas en Europa](https://github.com/rebecaprg/eda-european-drug-consumption)
 Análisis exploratorio y multivariante para identificar patrones de consumo según **género, edad, país y tipo de sustancia** utilizando datos oficiales europeos.  
 - Visualizaciones interactivas y comparativas  
-- Base sólida para futuros análisis de Machine Learning  
+- Base sólida para futuros análisis de Machine Learning
 
-*(Otros proyectos del bootcamp estarán disponibles a medida que los complete.)*
+### [Predicción del Operating Profit de Adidas US Sales](https://github.com/rebecaprg/ML-Adidas-Operating-profit)
+
+Desarrollo de un workflow completo de Machine Learning (problema supervisado) para predecir el beneficio operativo (Operating Profit) de las ventas de Adidas en Estados Unidos a partir de datos históricos de ventas, productos, precios, unidades vendidas, región y canal de venta.
+
+* Limpieza de datos, feature engineering y tratamiento de variables categóricas
+* Comparativa de modelos lineales y de árboles (Random Forest, Gradient Boosting)
+* Optimización de hiperparámetros con Randomized Search y validación cruzada
+* Interpretación de modelos mediante Permutation Importance
+* Insights de negocio sobre volumen, precio, región y canal de venta para mejorar la planificación y estrategias comerciales
+
+
 
 ---
 
