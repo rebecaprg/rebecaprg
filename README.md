@@ -53,7 +53,7 @@ Análisis exploratorio y multivariante para identificar patrones de consumo seg�
 
 ### [Predicción del Operating Profit de Adidas US Sales](https://github.com/rebecaprg/ML-Adidas-Operating-profit)
 
-Desarrollo de un workflow completo de Machine Learning (problema supervisado) para predecir el beneficio operativo (Operating Profit) de las ventas de Adidas en Estados Unidos a partir de datos históricos de ventas, productos, precios, unidades vendidas, región y canal de venta.
+Desarrollo de un workflow completo de *Machine Learning* (problema supervisado) para predecir el beneficio operativo (Operating Profit) de las ventas de Adidas en Estados Unidos a partir de datos históricos de ventas, productos, precios, unidades vendidas, región y canal de venta.
 
 * Limpieza de datos, feature engineering y tratamiento de variables categóricas
 * Comparativa de modelos lineales y de árboles (Random Forest, Gradient Boosting)
@@ -61,6 +61,16 @@ Desarrollo de un workflow completo de Machine Learning (problema supervisado) pa
 * Interpretación de modelos mediante Permutation Importance
 * Insights de negocio sobre volumen, precio, región y canal de venta para mejorar la planificación y estrategias comerciales
 
+### [Predicción de Churn de Clientes Bancarios](https://github.com/rebecaprg/ML_Churn_Prediction)
+
+Desarrollo de un pipeline completo de Machine Learning para predecir la probabilidad de que un cliente abandone un banco (churn) utilizando datos históricos de clientes europeos (Francia, Alemania y España).
+
+* Exploración de datos y análisis de la variable objetivo
+* Preprocesado, feature engineering y escalado de variables
+* Comparativa de modelos supervisados con validación cruzada
+* Optimización de hiperparámetros con RandomizedSearchCV
+* Evaluación del modelo final XGBoost sobre conjunto de test
+* Insights de negocio para campañas de retención de clientes
 
 
 ---
